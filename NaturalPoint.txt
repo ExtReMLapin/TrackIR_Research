@@ -1,0 +1,9 @@
+Useragent required = "NaturalPoint TrackIR 5.2.200"
+
+Gamelist -> http://www.naturalpoint.com/update/files/getfile.cgi?file_id=SGL&category=0
+
+
+Other :
+
+
+http://www.naturalpoint.com/update/news/query_url.cgi?camera_serial=0&software_version=1.200&software_type=TrackIR5
