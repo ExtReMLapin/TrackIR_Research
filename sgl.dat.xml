@@ -1429,4 +1429,59 @@ tag does not need to be set until the title goes public.
     <Game ProfileId="585" Id="4850" Name="Subnautica" Version="" Category="0" DevType="1">
         <ApplicationID>F92B360B97FA550A</ApplicationID>
     </Game>
+    <Game ProfileId="586" Id="4875" Name="The Assembly" Version="" Category="0" DevType="1">
+        <ApplicationID>3DB86EC5188733FB</ApplicationID>
+    </Game>
+    <Game ProfileId="587" Id="20945" Name="Synaptics, INC" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="588" Id="20950" Name="Agrovision" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="589" Id="20955" Name="Rockwell Collins" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="590" Id="20960" Name="KBY Software" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="591" Id="4925" Name="Carnetsoft" Version="" Category="0" DevType="1">
+        <ApplicationID>D04652313C0E1B32</ApplicationID>
+    </Game>
+    <Game ProfileId="592" Id="4950" Name="gRally" Version="" Category="0" DevType="1">
+        <ApplicationID>B5D1AB3AA82C5DF0</ApplicationID>
+    </Game>
+    <Game ProfileId="593" Id="4776" Name="Bus Simulator 16" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="594" Id="4851" Name="Subnautica" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="595" Id="2826" Name="Project CARS 2" Version="" Category="0" DevType="1">
+        <ApplicationID>AB6E1B550780B048</ApplicationID>
+    </Game>
+    <Game ProfileId="596" Id="2827" Name="Red Bull Air Racing Championship" Version="" Category="0" DevType="1">
+        <ApplicationID>0AFDFECD5262C873</ApplicationID>
+    </Game>
+    <Game ProfileId="597" Id="2850" Name="Radial-G : Racing Revolved" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="598" Id="20965" Name="Eiosis" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="599" Id="5025" Name="Mursion" Category="0" DevType="0">
+    </Game>
+    <Game ProfileId="600" Id="4075" Name="Everspace" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="601" Id="5050" Name="FSFX" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="600" Id="5075" Name="Sub Level Zero" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="601" Id="20055" Name="U of Manitoba" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="602" Id="20080" Name="Kookmin University" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="603" Id="20085" Name="USNTPS" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="604" Id="7506" Name="Take on Mars" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="605" Id="5125" Name="Space Hulk: Deathwing" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="606" Id="5150" Name="Kart Racing Pro" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="607" Id="20060" Name="NASA AFRC" Category="0" DevType="1">
+    </Game>
+    <Game ProfileId="608" Id="20105" Name="WSP Technologies" Category="0" DevType="1">
+    </Game>
 </Games>
