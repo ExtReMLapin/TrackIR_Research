@@ -4,8 +4,9 @@ local keyHandle = require("rc4")(key)
 local fileHandle = io.open("sgl.dat", "rb")
 local payload = fileHandle:read("*all")
 fileHandle:close()
-local decypted = keyHandle(payload)
+local decrypted = keyHandle(payload)
+decrypted = decrypted:gsub("\r\n", "\n")
 
-print(decypted)
-
-
+fileHandle = io.open("sgl.xml", "w")
+fileHandle:write(decrypted)
+fileHandle:close()
