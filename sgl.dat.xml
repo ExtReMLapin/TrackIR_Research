@@ -49,7 +49,7 @@ Use the DefaultProfile tag to specify the default profile to map to if one has
 not been set.  If the tag is not there, the default profile will be used.  This
 tag does not need to be set until the title goes public.
 -->
-<Games Version="464">
+<Games Version="466">
     <Game ProfileId="0" Id="-1" Name="None" Exe="">
     </Game>
     <Game Name="TrackIR SDK" Id="1000" ProfileId="701" Category="0" DevType="0">
@@ -97,12 +97,12 @@ tag does not need to be set until the title goes public.
     </Game>
     <Game ProfileId="11" Id="2201" Name="MKMapper Keymapper" Exe="" Category="0">
     </Game>
-    <Game ProfileId="12" Id="2302" Name="Flight Simulator 2002" Exe="fs2002.exe" Category="1">
+    <Game ProfileId="12" Id="2302" Name="MS Flight Simulator 2002" Exe="fs2002.exe" Category="1">
         <Restrict Axis="0" Min="-16380" Max="16380"></Restrict>
         <Restrict Axis="1" Min="-8191" Max="7500"></Restrict>
         <DefaultProfile>Flight.xml</DefaultProfile>
     </Game>
-    <Game ProfileId="13" Id="2303" Name="Flight Simulator 2004" Exe="fs9.exe" Version="9.0 or 9.1" Category="1">
+    <Game ProfileId="13" Id="2303" Name="MS Flight Simulator 2004" Exe="fs9.exe" Version="9.0 or 9.1" Category="1">
         <Restrict Axis="0" Min="-16380" Max="16380"></Restrict>
         <Restrict Axis="1" Min="-8191" Max="7500"></Restrict>
         <Restrict Axis="2" Supported="1"></Restrict>
@@ -462,7 +462,7 @@ tag does not need to be set until the title goes public.
     </Game>
     <Game ProfileId="147" Id="12201" Name="Eventology" Version="" Category="4" DevType="1">
     </Game>
-    <Game ProfileId="148" Id="2305" Name="Flight Simulator X" Version="" Category="1" DevType="0">
+    <Game ProfileId="148" Id="2305" Name="MS Flight Simulator X" Version="" Category="1" DevType="0">
         <DefaultProfile>Flight.xml</DefaultProfile>
     </Game>
     <Game ProfileId="149" Id="12401" Name="SilverHat" Version="" Category="0" DevType="1">
@@ -1383,7 +1383,7 @@ tag does not need to be set until the title goes public.
     </Game>
    <Game ProfileId="564" Id="4650" Name="Limb" Version="" Category="1" DevType="1">
     </Game>
-    <Game ProfileId="565" Id="1726" Name="Farming Simulator 17" Version="" Category="0" DevType="0">
+    <Game ProfileId="565" Id="1726" Name="Farming Simulator" Version="" Category="0" DevType="0">
         <ApplicationID>F1CEFF524246DF19</ApplicationID>
     </Game>
    <Game ProfileId="566" Id="13603" Name="American Truck Simulator" Version="" Category="1" DevType="0">
@@ -1680,7 +1680,7 @@ tag does not need to be set until the title goes public.
     </Game>
 	<Game Name="FlyInside Flight Simulator" Id="8145" ProfileId="706" Category="0" DevType="0">
     </Game>
-	<Game Name="Flight Simulator 2020" Id="8150" ProfileId="707" Category="0" DevType="1">
+	<Game Name="MS Flight Simulator 2020" Id="8150" ProfileId="707" Category="0" DevType="0">
     </Game>
 	<Game Name="Escape from Tarkov" Id="8155" ProfileId="708" Category="0" DevType="1">
     </Game>
