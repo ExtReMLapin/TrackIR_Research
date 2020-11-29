@@ -49,7 +49,7 @@ Use the DefaultProfile tag to specify the default profile to map to if one has
 not been set.  If the tag is not there, the default profile will be used.  This
 tag does not need to be set until the title goes public.
 -->
-<Games Version="466">
+<Games Version="467">
     <Game ProfileId="0" Id="-1" Name="None" Exe="">
     </Game>
     <Game Name="TrackIR SDK" Id="1000" ProfileId="701" Category="0" DevType="0">
@@ -58,7 +58,7 @@ tag does not need to be set until the title goes public.
         <Restrict Axis="1" Min="-8191" Max="7500"></Restrict>
         <DefaultProfile>Combat_Flight.xml</DefaultProfile>
     </Game>
-    <Game ProfileId="2" Id="1002" Name="Lock-On: Modern Air Combat" Exe="lockon.exe" Category="1">
+    <Game ProfileId="2" Id="1002" Name="Assetto Corsa"  Category="0" DevType="0">
         <Restrict Axis="0" Min="-12287" Max="12287"></Restrict>
         <Restrict Axis="1" Min="-8191" Max="7500"></Restrict>
         <DefaultProfile>Combat_Flight.xml</DefaultProfile>
@@ -1689,5 +1689,7 @@ tag does not need to be set until the title goes public.
 	<Game Name="Infinity: Battlescape" Id="8165" ProfileId="710" Category="0" DevType="0">
     </Game>
 	<Game Name="Stormworks: Build and Rescue" Id="8170" ProfileId="711" Category="0" DevType="1">
+    </Game>
+	<Game Name="Star Wars: Squadrons" Id="8175" ProfileId="712" Category="0" DevType="1">
     </Game>
 </Games>
