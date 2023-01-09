@@ -49,7 +49,7 @@ Use the DefaultProfile tag to specify the default profile to map to if one has
 not been set.  If the tag is not there, the default profile will be used.  This
 tag does not need to be set until the title goes public.
 -->
-<Games Version="477">
+<Games Version="482">
     <Game ProfileId="0" Id="-1" Name="None" Exe="">
     </Game>
     <Game Name="TrackIR SDK" Id="1000" ProfileId="701" Category="0" DevType="0">
@@ -1707,5 +1707,15 @@ tag does not need to be set until the title goes public.
 	<Game Name="World of Aircraft" Id="8210" ProfileId="719" Category="0" DevType="0">
     </Game>
 	<Game Name="AIRWARS" Id="8215" ProfileId="720" Category="0" DevType="0">
+    </Game>
+	<Game Name="Train Sim World 2" Id="8220" ProfileId="721" Category="0" DevType="0">
+    </Game>
+	<Game Name="Frontier Pilot Simulator" Id="8225" ProfileId="722" Category="0" DevType="0">
+    </Game>
+	<Game Name="eXpanSIM" Id="8230" ProfileId="723" Category="0" DevType="0">
+    </Game>
+	<Game Name="Posture123" Id="8235" ProfileId="724" Category="0" DevType="1">
+    </Game>
+	<Game Name="Everspace 2" Id="4076" ProfileId="725" Category="0" DevType="0">
     </Game>
 </Games>
