@@ -49,7 +49,7 @@ Use the DefaultProfile tag to specify the default profile to map to if one has
 not been set.  If the tag is not there, the default profile will be used.  This
 tag does not need to be set until the title goes public.
 -->
-<Games Version="491">
+<Games Version="492">
     <Game ProfileId="0" Id="-1" Name="None" Exe="">
     </Game>
     <Game Name="TrackIR SDK" Id="1000" ProfileId="701" Category="0" DevType="0">
@@ -1732,11 +1732,16 @@ tag does not need to be set until the title goes public.
 	</Game>	
 	<Game Name="SnowRunner" Id="8270" ProfileId="732" Category="0" DevType="1">
 	</Game>	
-	<Game Name="Glider Sim" Id="8275" ProfileId="733" Category="0" DevType="1">
+	<Game Name="Glider Sim" Id="8275" ProfileId="733" Category="0" DevType="0">
 	</Game>	
 	<Game Name="Tiny Combat Arena" Id="8280" ProfileId="734" Category="0" DevType="0">
 	</Game>	
 	<Game Name="Nuclear Option" Id="8285" ProfileId="735" Category="0" DevType="0">
 	</Game>	
-	
+	<Game Name="Le Mans Ultimate" Id="8290" ProfileId="736" Category="0" DevType="1">
+	</Game>	
+	<Game Name="KitHack Model Club" Id="8295" ProfileId="737" Category="0" DevType="0">
+	</Game>
+	<Game Name="Combat Pilot" Id="8300" ProfileId="738" Category="0" DevType="1">
+	</Game>	
 </Games>
