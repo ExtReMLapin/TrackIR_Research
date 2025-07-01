@@ -49,7 +49,7 @@ Use the DefaultProfile tag to specify the default profile to map to if one has
 not been set.  If the tag is not there, the default profile will be used.  This
 tag does not need to be set until the title goes public.
 -->
-<Games Version="492">
+<Games Version="495">
     <Game ProfileId="0" Id="-1" Name="None" Exe="">
     </Game>
     <Game Name="TrackIR SDK" Id="1000" ProfileId="701" Category="0" DevType="0">
@@ -1680,7 +1680,7 @@ tag does not need to be set until the title goes public.
     </Game>
 	<Game Name="FlyInside Flight Simulator" Id="8145" ProfileId="706" Category="0" DevType="0">
     </Game>
-	<Game Name="MS Flight Simulator 2020" Id="8150" ProfileId="707" Category="0" DevType="0">
+	<Game Name="MS Flight Simulator 2020" Id="8150" ProfileId="707" Category="1" DevType="0">
     </Game>
 	<Game Name="Escape from Tarkov" Id="8155" ProfileId="708" Category="0" DevType="1">
     </Game>
@@ -1742,6 +1742,14 @@ tag does not need to be set until the title goes public.
 	</Game>	
 	<Game Name="KitHack Model Club" Id="8295" ProfileId="737" Category="0" DevType="0">
 	</Game>
-	<Game Name="Combat Pilot" Id="8300" ProfileId="738" Category="0" DevType="1">
+	<Game Name="Combat Pilot" Id="8300" ProfileId="738" Category="0" DevType="0">
 	</Game>	
+	<Game Name="Drift Racing Online" Id="8305" ProfileId="739" Category="0" DevType="1">
+	</Game>	
+	<Game Name="Arma Reforger" Id="8310" ProfileId="740" Category="0" DevType="0">
+	</Game>	
+	<Game Name="MS Flight Simulator 2024" Id="8151" ProfileId="741" Category="1" DevType="0">
+    </Game>
+	<Game Name="Sectaris Command" Id="8315" ProfileId="742" Category="3" DevType="1">
+    </Game>
 </Games>
